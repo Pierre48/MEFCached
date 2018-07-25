@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using ColorConsole;
 
-namespace GitCached
+namespace MEFCached
 {
     internal class BootStrapClass
     {

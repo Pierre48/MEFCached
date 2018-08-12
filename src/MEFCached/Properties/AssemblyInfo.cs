@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GitCached")]
+[assembly: AssemblyTitle("MEFCached")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("GitCached")]
+[assembly: AssemblyProduct("MEFCached")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("dae682a0-8ea9-4708-aff6-40ecc7460c16")]
+[assembly: Guid("b671be2b-c66a-44b4-8cbe-3ee292428ec1")]
 
 // Version information for an assembly consists of the following four values:
 //
